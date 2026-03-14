@@ -2,6 +2,12 @@
 
 This action prints helps you to compile latex by using biber.
 
+## Archival Notice
+
+> [!IMPORTANT]
+> This repository is no longer actively maintained and is considered **archived**.  
+> For compiling LaTeX documents in GitHub Actions, it is recommended to use the "LaTeX Compilation" GitHub Action instead: <https://github.com/marketplace/actions/latex-compilation>.
+
 ## Inputs
 
 ### `filename`
